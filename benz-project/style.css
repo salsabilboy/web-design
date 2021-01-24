@@ -137,7 +137,7 @@ display: flex;
 }
 
 .logo-text{
-    font-family: "title";
+    font-family: "title" !important;
     font-size: 20px;
     top: 60px;
     left: 135px;
